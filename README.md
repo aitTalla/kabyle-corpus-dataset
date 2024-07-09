@@ -1,7 +1,7 @@
 # Dataset de Corpus de Texte en Langue Taqbaylit
 
 Ce projet contient un dataset de corpus de texte en langue Taqbaylit, une langue berbère parlée principalement en Kabylie, une région montagneuse au nord de l'Algérie. Ce corpus est destiné à faciliter la recherche et le développement dans le domaine du traitement automatique des langues pour la langue kabyle.
-
+![Exemple d'image](ICON.png)
 ## Contenu du Projet
 
 - **corpus/** : Ce répertoire contient les fichiers du corpus de texte en langue kabyle.
